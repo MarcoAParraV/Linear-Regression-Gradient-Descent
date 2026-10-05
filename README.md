@@ -145,7 +145,7 @@ python -m pip install numpy matplotlib notebook
    jupyter notebook
    ```
 
-3. Open `Regresión_Lineal_Marco_Inglés.ipynb`.
+3. Open `LR_GD.ipynb`.
 4. Run the cells from top to bottom.
 
 Running the notebook in order is important because the later cells use variables created by the dataset and training cells.
